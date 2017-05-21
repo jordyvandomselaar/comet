@@ -1,21 +1,19 @@
-# comet
+#Comet
+_The catalog for all your custom element needs._
 
-> COMponEnT
 
-## Build Setup
+## Why?
+There's plenty of websites where you can find custom components for various frameworks which is exactly why I'm building this; a catalog where you can find all your components in one place. Think of it as Google for components.
 
-``` bash
-# install dependencies
-npm install
 
-# serve with hot reload at localhost:8080
-npm run dev
+## Techniques used
+For this website I'll be using Vuejs for the frontend together with Vuex, and Laravel for the backend. This allows me to get better with VueJS. (I just really like Laravel, which is why I'll be using that as well.). 
 
-# build for production with minification
-npm run build
 
-# build for production and view the bundle analyzer report
-npm run build --report
-```
+## Feel like collaborating?
+Please do! It's a learning project for me, but if you'd like to help that'd be awesome. Here's how:
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+1. Fork this project
+2. Run `npm install` or `yarn`, whichever you prefer.
+3. Go at it
+4. Submit a PR with your awesomeness.
